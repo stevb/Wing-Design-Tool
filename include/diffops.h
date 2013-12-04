@@ -6,7 +6,7 @@
 using namespace arma;
 
 /*
-Written by Jeroen Barnhoorn,
+Written by Jeroen Barnhoorn, Steve Brust
 4 december 2013
 
 STATUS: TODO
