@@ -9,7 +9,7 @@ using namespace arma;
 Written by Jeroen Barnhoorn, Steve Brust
 4 december 2013
 
-STATUS: TODO
+STATUS: DONE
 */
 mat laplace(mat w) {
     mat ddw = zeros<mat>(w.n_rows, w.n_cols);
